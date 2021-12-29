@@ -1,0 +1,34 @@
+.App {
+  
+  min-height: 100vh;
+ 
+  
+}
+h5{
+  line-height: 1px;
+}
+i{
+  margin: .5rem 0;
+  padding: .5rem 0;
+  border-bottom: 1px solid gray;
+
+}
+.fas .far {
+  color: gray;
+
+}
+.fas:hover{
+  background: blue;
+  cursor: pointer;
+  color: white;
+}
+.far:hover{
+  background: blue;
+  cursor: pointer;
+  color: white;
+}
+#file{
+  height: 20px;
+  width: 100%;
+ 
+}
